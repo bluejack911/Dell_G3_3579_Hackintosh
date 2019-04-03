@@ -4,6 +4,7 @@ The EFI of Dell G3 3579 about macOS 10.14.*
 # Update List
 2019-03-30
 * First upload System version 10.14.4 official version CLOVER r4910
+* 10.14.4
 
 # Configuration
 * CPU:i5-8300h
