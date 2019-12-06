@@ -20,8 +20,8 @@ The EFI of Dell G3 3579 about macOS 10.14.*
 
 # Configuration
 * CPU:i5-8300h
-* Graphics card:Nvidia 1060 6GB MaxQ
+* Graphics card:Nvidia 1050Ti（不能使用）
 * Sound card:Realtek ALC236
-* Wireless network card:Broadcom BCM94352z
+* Wireless network card:Broadcom BCM94352z 08PKF4（需要屏蔽前3针脚才能正常使用WiFi和蓝牙）
 * Bluetooth:Broadcom BCM94352z
-* M.2:Samsung 970EVO 500GB
+
